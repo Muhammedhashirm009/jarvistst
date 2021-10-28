@@ -1,0 +1,9 @@
+build:
+
+  docker:
+
+      worker: /hashir/Dockerfile
+
+run:
+
+   worker: npm start
