@@ -1,4 +1,4 @@
-heroku-apt-
+
 
 FROM fusuf/whatsasena:latest
 
